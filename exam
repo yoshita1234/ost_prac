@@ -1,0 +1,5 @@
+#area of circle
+if shape == "circle"
+pi=3.14
+r=float(input("\nplease enter the value of radius: "))
+print("\nthe area of circle is", math.pi*r*r)
